@@ -205,6 +205,7 @@ PRODUCT_PACKAGES += \
     libqtigef \
     libsndmonitor \
     libspkrprot \
+    android.hardware.camera.provider@2.4-legacy \
     com.qti.sensor.ofilm_hi259 \
     com.qti.sensor.ofilm_imx682 \
     com.qti.sensor.ofilm_ov02b1b \
@@ -368,6 +369,7 @@ PRODUCT_PACKAGES += \
     libxmi_high_dynamic_range \
     libxml2_vendor \
     sensors.ssc \
+    vendor.qti.hardware.camera.device@3.5 \
     vendor.qti.hardware.fingerprint@1.0 \
     capi_v2_aptX_CLHDADV_Encoder \
     capi_v2_aptX_CLHDAD_Speech_Decoder \
